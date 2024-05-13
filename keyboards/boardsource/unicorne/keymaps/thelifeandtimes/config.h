@@ -1,0 +1,2 @@
+#define TAPPING_TERM 190
+#define RETRO_TAPPING
